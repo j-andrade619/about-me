@@ -1,0 +1,27 @@
+html, body {
+    background-color: darkcyan;
+}
+h1{
+    color: yellowgreen;
+    text-align: center;
+}
+
+h2{
+    color: yellowgreen;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+p{
+    border: 2px black solid;
+}
+h3{
+    text-align: center;
+    color: yellowgreen;
+    text-emphasis-style: circle;
+}
